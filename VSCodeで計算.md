@@ -1,0 +1,2 @@
+- Ctrl+@で、PowerShellを起動。
+- 数式を入力してEnterで計算結果が出力される。
